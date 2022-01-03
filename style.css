@@ -1,0 +1,49 @@
+h1, p {
+    text-align: center;
+    font-family : Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+table {
+    font-size: 16px;
+    border-collapse: collapse;
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1280px;
+}
+
+tr, td, thead, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    vertical-align: middle;
+    padding: 10px;
+    word-break: break-all;
+}
+
+.participant {
+    width: 25%;
+}
+
+.rank {
+    width: 5%;
+    text-align: center;
+}
+
+.task {
+    width: 3%;
+    text-align: center;
+}
+
+.short {
+    width: 5%;
+}
+
+.bruh {
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.total {
+    width: 4% !important;
+}
