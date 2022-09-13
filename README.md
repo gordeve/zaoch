@@ -4,8 +4,8 @@
 
 ### Как использовать
 1. Запустите [dnld.py](https://github.com/gordeve/zaoch/blob/main/dnld.py) чтобы скачать необходимые таблицы
-2. Запустите [parse.exe](https://github.com/gordeve/zaoch/blob/main/parse.cpp) чтобы сгенерировать новую полную html-таблицу
-3. Откройте в любом удобном вам браузере
+2. Запустите [parse.exe](https://github.com/gordeve/zaoch/blob/main/parse.cpp) чтобы сгенерировать новую полную html-таблицу (index.html)
+3. Откройте [index.html](https://github.com/gordeve/zaoch/blob/main/index.html) в любом удобном вам браузере
 4. Профит
 
 ### Обновления
